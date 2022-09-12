@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Simple Multisig Wallet Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is Simple Multisig Wallet built on the Etheruem Georli Network using Hardhat, Solidity & Alchemy.
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+Address of the contract deployed on the Etheruem Georli Network: [0x67f7fb10E8dB38e1f0eaB8dBA3607983ba3dC988](https://goerli.etherscan.io/address/0x67f7fb10E8dB38e1f0eaB8dBA3607983ba3dC988)
