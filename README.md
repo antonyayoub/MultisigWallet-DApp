@@ -1,6 +1,6 @@
 # Simple Multisig Wallet Hardhat Project
 
-This is Simple Multisig Wallet built on the Etheruem Georli Network using Hardhat, Solidity & Alchemy.
+This is Simple Multisig Wallet built on the Ethereum Goerli Network using Hardhat, Solidity & Alchemy.
 
 Try running some of the following tasks:
 
